@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, LockItActivity!</string>
+    <string name="app_name">LockIt</string>
+    <string name="sample_device_admin_description">获得锁屏权限</string>
+    <string name="sample_device_admin">想锁屏，获权限</string>
+
+</resources>
