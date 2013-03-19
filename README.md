@@ -1,1 +1,0 @@
-Hi，i am bobo, i am using github for the first time!
